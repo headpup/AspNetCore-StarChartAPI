@@ -4,9 +4,9 @@ using System.Linq;
 using System.Reflection;
 using Microsoft.AspNetCore.Mvc;
 using StarChart.Data;
-using Moq;
 using Xunit;
 using Microsoft.EntityFrameworkCore;
+using Moq;
 
 namespace StarChartTests
 {
